@@ -1,5 +1,12 @@
 wfasdfasdfas
+<<<<<<< HEAD
 
 
 
 hahahaha
+=======
+haha
+haha
+
+haha
+>>>>>>> new
